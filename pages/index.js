@@ -7,11 +7,11 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Nataniel</title>
-        <link rel="icon" href="/Nat_LOGO.png" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Hello />
+        <Header title="Hello">Hellos</Header>
       </main>
     </div>
   )
