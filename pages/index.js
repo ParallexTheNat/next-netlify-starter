@@ -4,15 +4,15 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
-      <Head>
-        <title>Nataniel</title>
-        <link rel="icon" href="/Nat_LOGO.ico" />
-      </Head>
-
-      <main>
-        <Header title="Hello">Hellos</Header>
-      </main>
+    <div id="making">
+        <div class="wrapper">
+            <div class="typing-demo">
+              nataniel
+            </div>
+        </div>
+        <button id="mywork">my work</button>
+        <button id="contact_me" style="margin-top: 10px">contact me</button>
     </div>
+    <script src="main.js"></script>
   )
 }
